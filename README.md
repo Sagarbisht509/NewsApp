@@ -1,5 +1,5 @@
 # NewsApp
-News application
+News application shows breaking news using [NewsApi](https://newsapi.org/docs/get-started#top-headlines)
 
 
 ## Architecture
@@ -43,7 +43,7 @@ This app uses [***MVVM (Model View View-Model)***](https://developer.android.com
 - [Navigation](https://developer.android.com/guide/navigation/navigation-getting-started) - Android Jetpack's Navigation component helps you implement navigation..
 
 - [GSON](https://github.com/google/gson) - A modern JSON library for Kotlin and Java.
-- 
+
 - [GSON Converter](https://github.com/square/retrofit/tree/master/retrofit-converters/gson) - A Converter which uses Moshi for serialization to and from JSON.
-- 
+
 - [Glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
