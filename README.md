@@ -8,9 +8,17 @@ This app uses [***MVVM (Model View View-Model)***](https://developer.android.com
 ![](https://developer.android.com/topic/libraries/architecture/images/final-architecture.png)
 
 
-- [NewsApi](https://newsapi.org/docs/get-started#top-headlines)
+## 📸 Screenshots
+
+||||
+|:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------: |
+| ![122ba030-a914-4a3d-8460-eb2085360128](https://github.com/Sagarbisht509/NewsApp/assets/81458873/b4d75c70-af09-4ac7-992b-0a0656cb2a6b | ![](media/login_dark.jpg) |  |
+|   |  |    |
+
 
 ## Built With 🛠
+
+- [NewsApi](https://newsapi.org/docs/get-started#top-headlines)
 
 - [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.
 
@@ -27,7 +35,15 @@ This app uses [***MVVM (Model View View-Model)***](https://developer.android.com
 - [Android Architecture Components](https://developer.android.com/topic/libraries/architecture) - Collection of libraries that help you design robust, testable, and maintainable apps.
 
   - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) - Stores UI-related data that isn't destroyed on UI changes.
+  
+  - [ViewBinding](https://developer.android.com/topic/libraries/view-binding) - Generates a binding class for each XML layout file present in that module and allows you to more easily write code that interacts with views.
 
 - [Material Components for Android](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components for Android.
 
 - [Navigation](https://developer.android.com/guide/navigation/navigation-getting-started) - Android Jetpack's Navigation component helps you implement navigation..
+
+- [GSON](https://github.com/google/gson) - A modern JSON library for Kotlin and Java.
+- 
+- [GSON Converter](https://github.com/square/retrofit/tree/master/retrofit-converters/gson) - A Converter which uses Moshi for serialization to and from JSON.
+- 
+- [Glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
