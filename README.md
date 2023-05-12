@@ -12,7 +12,7 @@ This app uses [***MVVM (Model View View-Model)***](https://developer.android.com
 
 ||||
 |:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------: |
-| ![122ba030-a914-4a3d-8460-eb2085360128](https://github.com/Sagarbisht509/NewsApp/assets/81458873/b4d75c70-af09-4ac7-992b-0a0656cb2a6b | ![](media/login_dark.jpg) |  |
+| ![](https://github.com/Sagarbisht509/NewsApp/assets/81458873/b4d75c70-af09-4ac7-992b-0a0656cb2a6b |  |  |
 |   |  |    |
 
 
