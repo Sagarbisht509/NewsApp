@@ -13,8 +13,7 @@ This app uses [***MVVM (Model View View-Model)***](https://developer.android.com
 ||||
 |:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------:|
 | ![](https://github.com/Sagarbisht509/NewsApp/assets/81458873/b4d75c70-af09-4ac7-992b-0a0656cb2a6b) | ![](https://github.com/Sagarbisht509/NewsApp/assets/81458873/1115d1da-26db-4c1b-9707-5dd515f3aa56) | ![](https://github.com/Sagarbisht509/NewsApp/assets/81458873/8c521b76-9e0d-459e-9d56-9078786ffae8) |
-| ![](https://github.com/Sagarbisht509/NewsApp/assets/81458873/89162189-a1ec-4105-92dc-cba3a342f827)  | 
-| ![](https://github.com/Sagarbisht509/NewsApp/assets/81458873/a390f76e-7930-49a3-9d58-8c809ed8f603) |
+| ![](https://github.com/Sagarbisht509/NewsApp/assets/81458873/89162189-a1ec-4105-92dc-cba3a342f827)  | ![](https://github.com/Sagarbisht509/NewsApp/assets/81458873/a390f76e-7930-49a3-9d58-8c809ed8f603) |
 
 
 ## Built With 🛠
