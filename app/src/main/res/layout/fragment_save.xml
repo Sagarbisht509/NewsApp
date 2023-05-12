@@ -5,10 +5,9 @@
     android:layout_height="match_parent"
     tools:context=".ui.fragments.SaveFragment">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvSaved"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="save" />
+        android:layout_height="match_parent"/>
 
 </FrameLayout>
