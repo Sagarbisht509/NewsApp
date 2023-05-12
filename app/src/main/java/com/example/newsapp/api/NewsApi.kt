@@ -11,9 +11,7 @@ interface NewsApi {
     @GET("v2/top-headlines")
     suspend fun getNews(
         @Query("country")
-        countryCode: String = "india",
-        @Query("page")
-        page: Int = 1,
+        countryCode: String,
         @Query("apiKey")
         apiKey: String = API_KEY
     ): Response<NewsResponse>
@@ -21,9 +19,7 @@ interface NewsApi {
     @GET("v2/everything")
     suspend fun getSearchedNews(
         @Query("q")
-        searchKeyword: String,
-        @Query("page")
-        page: Int = 1,
+        searchQuery: String,
         @Query("apiKey")
         apiKey: String = API_KEY
     ): Response<NewsResponse>
